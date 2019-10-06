@@ -1,0 +1,27 @@
+{
+  "equipo" : [ {
+    "frase" : "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "nombre" : "Eliana Soto",
+    "subtitulo" : "Graphic Designer",
+    "twitter" : "@eliana",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/retacitos-5b575.appspot.com/o/team-1.jpg?alt=media&token=5dbb009f-cc78-46e8-bd7c-8937502d2edd"
+  }, {
+    "frase" : "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+    "nombre" : "Ruth Suarez",
+    "subtitulo" : "Marketing Director",
+    "twitter" : "@TruthTec",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/retacitos-5b575.appspot.com/o/team-2.jpg?alt=media&token=1be631da-547a-498a-b26d-35fec0c8afab"
+  }, {
+    "frase" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+    "nombre" : "Juan Carlos",
+    "subtitulo" : "Web Developer",
+    "twitter" : "@jcsoftia",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/retacitos-5b575.appspot.com/o/team-3.jpg?alt=media&token=e3f36f57-d5d3-4803-afa8-f2e9a6455384"
+  }, {
+    "frase" : "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "nombre" : "Miguel Campos",
+    "subtitulo" : "Founder / CEO",
+    "twitter" : "@miguelito",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/retacitos-5b575.appspot.com/o/team-4.jpg?alt=media&token=0a1f4b54-2692-4b07-9995-624e720a1fff"
+  } ]
+}
